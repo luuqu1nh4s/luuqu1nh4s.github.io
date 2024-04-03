@@ -1,0 +1,113 @@
+.mainpage
+{
+    background-color:#3fa7d6;
+    height: 100vh;
+}
+
+.cabeçalho
+{
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#1b5299;
+}
+
+.cabeçalho .pslifelogo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.pslifelogo h1
+{
+    font: 500 27px 'Playstation';
+    color: #ffffff;
+}
+
+.pslifemenu a
+{
+    margin: 5px 30px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.psstore
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.psstore a
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color:#ffffff;
+}
+
+.psstore p
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    width: 60px;
+    margin-left: 7px;
+}
+
+.ps5texto
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.ps5texto h1
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font: 500 32px 'Playstation';
+}
+
+.ps5texto p
+{
+    width: 1080px;
+    font-size: 22px;
+}
+
+.tabela
+{
+    margin-left: 300px;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 0px #1b5299;
+    border-radius: 7px;
+}
+
+.tabela a
+{
+    text-decoration: none;
+}
+
+.consoleps5
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: -170px;
+    margin-left: 850px;
+}
